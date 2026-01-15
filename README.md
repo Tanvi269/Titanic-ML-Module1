@@ -22,7 +22,8 @@ https://www.kaggle.com/competitions/titanic
 - Name: **Tanvi Patil**
 
 ## Files
-- `titanic_ml.ipynb`
-- `titanic_submission.csv`
-- `screenshots/`
+-  titanic_ml.ipynb
+-  titanic_submission.csv
+-  kaggle_leaderboard.pdf
+-  kaggle_submission.png
 
