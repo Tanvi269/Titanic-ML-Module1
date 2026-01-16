@@ -24,6 +24,6 @@ https://www.kaggle.com/competitions/titanic
 ## Files
 -  titanic_ml.ipynb
 -  titanic_submission.csv
--  kaggle_leaderboard.pdf
--  kaggle_submission.png
+  
+
 
